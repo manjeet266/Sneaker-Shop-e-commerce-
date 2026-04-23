@@ -1,5 +1,7 @@
 # Sneaker Shop E-Commerce Platform
 
+![Sneaker Shop Banner](main/static/images/jumbotron.jpg)
+
 A fully functional, custom-built e-commerce web application for a sneaker shop. This project is built using Python and the Django framework, providing a robust backend and an intuitive frontend for browsing, managing a shopping cart, and checking out.
 
 ## Features
